@@ -2,26 +2,45 @@
 
 This is a course management system using java, with the proper implementation of OOP concept. 
 Software development concept used: Data Storage(JDBC), GUI(Swing).
+
 This system has 3 users: Student, Teacher and Admin.
+
 What users can do?
+
 1. Student:
-   Can login/signup, 
-   Can enroll, 
-   Can see courses and modules, 
+   
+   Can login/signup,
+   
+   Can enroll,
+   
+   Can see courses and modules,
+   
    Can see teachers.
-2. Teacher:
-   Login/Signp, 
-   Can see course and modules they are assigned to, 
-   Can see the enrolled students in their courses/modules, 
+
+3. Teacher:
+   
+   Login/Signp,
+    
+   Can see course and modules they are assigned to,
+   
+   Can see the enrolled students in their courses/modules,
+   
    Can mark students
+   
 4. Admin (only one admin):
+   
    Login,
-   Manage teachers (assign, add, delete and edit), 
-   Manage students (Add, delete and edit), 
-   Manage courses and modules (Add, delete and edit), 
+   
+   Manage teachers (assign, add, delete and edit),
+   
+   Manage students (Add, delete and edit),
+   
+   Manage courses and modules (Add, delete and edit),
+   
    Generate results slip and display.
 
 Key features  of the system
+
 ● Ability to amend (add) courses and modules.
 
 ● Ability to amend(add) instructor details or to remove
